@@ -1,1 +1,9 @@
+[package]
+name = "happy-birthday-george"
+version = "0.1.0"
+edition = "2021"
 
+[dependencies]
+colored = "2"
+crossterm = "0.27"
+rand = "0.8"
